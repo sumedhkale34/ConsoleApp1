@@ -10,6 +10,8 @@ namespace ConsoleApp1
             Console.WriteLine("Sumedh");
             int a = 10;
             Console.WriteLine(a);
+            int b = 20;
+            Console.WriteLine(b);
         }
     }
 }
